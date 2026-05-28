@@ -18,7 +18,8 @@ package {
 
 aconfig_declarations {
     name: "android.sdk.flags-aconfig",
-    package: "android.sdk",
+    
+package: "android.sdk",
     container: "system",
     srcs: ["flags.aconfig"],
 }
